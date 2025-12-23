@@ -50,6 +50,8 @@ Frontend displays product details and pricing dynamically
 
 This approach keeps payment logic secure while allowing the frontend to remain fast and flexible.
 
+---
+
 ### 🧠 Future Enhancements
 
 Backend API for orders and inventory
@@ -68,6 +70,8 @@ Analytics and conversion tracking
 
 ### 🎨 Design Philosophy
 
+---
+
 Minimal and art-forward UI
 
 Focus on product imagery
@@ -77,5 +81,7 @@ Simple checkout flow
 Accessible and responsive across devices
 
 ### 📬 Contact
+
+---
 
 If you’re interested in collaborating, commissioning work, or purchasing art, feel free to reach out.
